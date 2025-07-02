@@ -16,7 +16,7 @@ Explore my repositories to see projects I've built using **React JS** or **Vanil
 
 ### 🌐 Check out my website:
 
-[👉 www.sandrine-anid.com](http://www.sandrine-anid.com) *(replace with your actual link)*
+[👉 www.sandrine-anid.com](http://www.sandrine-anid.com)
 
 Feel free to explore!
 
