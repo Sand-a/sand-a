@@ -9,7 +9,6 @@ I'm a **Front-End Developer** passionate about creating interactive and responsi
 * **React JS**
 * **Vanilla JavaScript**
 * HTML & CSS
-* \[Optional: Add any additional tools you regularly use, like Tailwind CSS, TypeScript, etc.]
 
 ### 💻 What you'll find here:
 
