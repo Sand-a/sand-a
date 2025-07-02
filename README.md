@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋  
+**I'M SANDRINE**
 
 Welcome to my GitHub!
 I'm a **Front-End Developer** passionate about creating interactive and responsive web experiences.
