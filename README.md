@@ -18,6 +18,6 @@ Explore my repositories to see projects I've built using **React JS** or **Vanil
 
 [👉 www.sandrine-anid.com](http://www.sandrine-anid.com)
 
-Feel free to explore!
+
 
 
