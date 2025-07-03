@@ -2,7 +2,7 @@
 **I'M SANDRINE**
 
 Welcome to my GitHub!
-I'm a **Front-End Developer** passionate about designing and building interactive and responsive web experiences.
+I'm a **Front-End Developer** passionate about designing and building <br>interactive and responsive web experiences.
 
 ### Tech Stack:
 
