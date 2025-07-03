@@ -2,7 +2,7 @@
 **I'M SANDRINE**
 
 Welcome to my GitHub!
-I'm a **Front-End Developer** passionate about designing and building <br>interactive and responsive web experiences.
+I'm a **Front-End Developer** passionate about designing and building interactive and responsive web experiences.
 
 ### Tech Stack:
 
@@ -12,8 +12,7 @@ I'm a **Front-End Developer** passionate about designing and building <br>intera
 
 ### What you'll find here:
 
-Explore my repositories to see projects I've built using **React JS** or **Vanilla JavaScript**, <br>
-ranging from simple UI components to full web applications.
+Explore my repositories to see projects I've built using **React JS** or **Vanilla JavaScript**, ranging from simple UI components to full web applications.
 
 ### Check out my website:
 
